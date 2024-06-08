@@ -47,3 +47,7 @@ Você pode simular o projeto no Wokwi usando o link: https://wokwi.com/projects/
 Expandir o projeto: Adicione outros sensores para monitorar diferentes parâmetros ambientais (qualidade do ar, CO2, etc.).
 Conectar à internet: Envie os dados para a nuvem para monitoramento remoto e análise.
 Criar um sistema de alerta: Envie notificações por e-mail ou SMS quando os limites forem ultrapassados.
+
+#Equipe
+- Bento Rangel - RM559124 
+- Daniel Vieira - RM556275
